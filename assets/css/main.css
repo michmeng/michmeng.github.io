@@ -4365,9 +4365,9 @@ input, select, textarea {
 
 			#banner .content p {
 				border-right: 1px solid rgba(255, 255, 255, 0.25);
-				font-size: 1.5rem;
+				font-size: 1.2rem;
 				font-weight: 400;
-				min-width: 70%;
+				min-width: 90%;
 				padding: 3rem 3rem 3rem 0;
 			}
 
