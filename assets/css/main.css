@@ -1921,6 +1921,7 @@ input, select, textarea {
 			font-size: 0.65rem;
 			height: 2.5rem;
 			line-height: 2.25rem;
+            background-position: right;
 		}
 
 		input[type="submit"].large,
@@ -2492,16 +2493,18 @@ input, select, textarea {
 			}
 
         .image.rounded {
-              height: 220px;
-              width: 220px;
+              height: 300px;
+              width: 300px;
               border-radius: 50%;
 /*              overflow: hidden;*/
               float: left;
 			  margin: 0 0 1rem 1.5rem;
+/*
 			  top: 2rem;
             right: 2rem;
             left: 2rem;
             bottom: 2rem;
+*/
         }
 
 		.image.main {
